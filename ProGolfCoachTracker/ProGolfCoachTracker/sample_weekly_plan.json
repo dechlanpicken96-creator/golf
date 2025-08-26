@@ -1,0 +1,93 @@
+{
+  "weekStartDate": "2025-08-25",
+  "weekLabel": "Week 1 \u2013 Coach Plan (Adam Young)",
+  "days": [
+    {
+      "name": "Monday",
+      "drills": [
+        {
+          "id": "drv-path-face",
+          "name": "Driver \u2013 Path/Face windows",
+          "club": "Driver",
+          "targetDesc": "Alternate 5 fades / 5 draws to a 30m corridor. External focus: start line & curve.",
+          "scoringType": "PROXIMITY_CM",
+          "shotsPlanned": 10,
+          "notes": "Record end-point lateral miss (cm) vs target line."
+        },
+        {
+          "id": "wedge-50",
+          "name": "50m Wedge Calibration",
+          "club": "SW",
+          "targetDesc": "Land zone 50m \u00b13m; track proximity to hole.",
+          "scoringType": "PROXIMITY_CM",
+          "shotsPlanned": 10
+        }
+      ]
+    },
+    {
+      "name": "Tuesday",
+      "drills": [
+        {
+          "id": "irn-rand",
+          "name": "Random Irons 7i/5i",
+          "club": "7i/5i",
+          "targetDesc": "Random targets 130\u2013170m; 1-ball routine.",
+          "scoringType": "PROXIMITY_CM",
+          "shotsPlanned": 12
+        }
+      ]
+    },
+    {
+      "name": "Thursday",
+      "drills": [
+        {
+          "id": "chip-3x3",
+          "name": "Chipping Ladder 3\u00d73",
+          "club": "PW/SW",
+          "targetDesc": "Nine stations; up-and-down pressure.",
+          "scoringType": "MAKE_MISS",
+          "shotsPlanned": 18
+        }
+      ]
+    },
+    {
+      "name": "Friday",
+      "drills": [
+        {
+          "id": "speed-putt",
+          "name": "Speed Putting 6\u20139\u201312m",
+          "club": "Putter",
+          "targetDesc": "Stop inside a 90cm zone.",
+          "scoringType": "PROXIMITY_CM",
+          "shotsPlanned": 15
+        }
+      ]
+    },
+    {
+      "name": "Saturday",
+      "drills": [
+        {
+          "id": "bunker-updown",
+          "name": "Bunker Up & Down",
+          "club": "SW",
+          "targetDesc": "10 balls; make/miss up-and-down.",
+          "scoringType": "MAKE_MISS",
+          "shotsPlanned": 10
+        }
+      ]
+    },
+    {
+      "name": "Sunday",
+      "drills": [
+        {
+          "id": "pressure-5inrow",
+          "name": "Pressure: 5-in-a-row (inside 6ft)",
+          "club": "Putter",
+          "targetDesc": "Time each attempt under pressure (sec).",
+          "scoringType": "TIME_SEC",
+          "shotsPlanned": 15
+        }
+      ]
+    }
+  ]
+}
